@@ -1,4 +1,5 @@
 ** This is how you make texts bold **
+
 #This act as a h1 tag in HTML #
 ## This acts as an h2 tag in HTML ##
 So far in this *practice*, I've managed to make a git repo on my local divce, and push it on GitHub.
