@@ -10,10 +10,10 @@ Briefly explainging, General idea is to use this repo as a container of implemen
 >[!IMPORTANT] 
 >To do list:
 
--[ ]Make a list of ALgorithms.
--[ ]Filters the one who is going to implement.
--[ ]Put the chosen ones in the order.
--[ ]Make an schedule for implementing them.
+- [ ]Make a list of ALgorithms.
+- [ ]Filters the one who is going to implement.
+- [ ]Put the chosen ones in the order.
+- [x]Make an schedule for implementing them.
 -[]Start with the first one.
 
 >[!Note]
