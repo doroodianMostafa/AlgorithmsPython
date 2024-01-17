@@ -15,6 +15,8 @@ Briefly explainging, General idea is to use this repo as a container of implemen
 - [ ]Put the chosen ones in the order.
 - [x]Make an schedule for implementing them.
 -[]Start with the first one.
+- [ ] \(Optional) Open a followup issue
+
 
 >[!Note]
 This project can be developte to data structure later.
