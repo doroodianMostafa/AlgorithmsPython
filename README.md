@@ -14,6 +14,6 @@ Briefly explainging, General idea is to use this repo as a container of implemen
 []Make an schedule for implementing them.
 []Start with the first one.
 
-[!Note]
+>[!Note]
 This project can be developte to data structure later.
 
